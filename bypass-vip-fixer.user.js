@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Bypass.vip Fixer
-// @namespace    bypass.vip
+// @namespace    https://github.com/nvkob1
 // @version      1.0
 // @description  This make bypass.vip userscipt working.
-// @author       lazy_2play
+// @author       nvkob1
 // @match         *://mega-guy.com/*
 // @match         *://loot-link.com/*
 // @match         *://best-links.org/*
@@ -191,7 +191,9 @@
 // @match         *://rbscripts.net/*
 // @match         *://link.rbscripts.net/*
 // @match         *://flux.li/android/external/*
-// @grant        none
+// @downloadURL   https://github.com/nvkob1/userscript/raw/refs/heads/main/bypass-vip-fixer.user.js
+// @updateURL     https://github.com/nvkob1/userscript/raw/refs/heads/main/bypass-vip-fixer.user.js
+// @homepageURL   https://github.com/nvkob1
 // ==/UserScript==
 
 (function () {
